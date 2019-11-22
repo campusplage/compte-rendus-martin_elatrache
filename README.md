@@ -9,7 +9,7 @@ Ce répo contient votre compte-rendu pour les TPs d'analyse de données multidim
 
 Ouvrez ces documents, __et faites attention à les sauvegarder sur votre propre répo de compte rendus__. C'est sur eux que vous serez notés.
 
-Modif
+
 ---
 date limite: __le 2 décembre à 6h du matin__
 
